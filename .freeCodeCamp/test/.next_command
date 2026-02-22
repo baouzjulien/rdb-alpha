@@ -116,3 +116,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 psql --username=freecodecamp --dbname=postgres
 git status
 git add .freeCodeCamp/test/.next_command
+git commit -m "Progrès exercice FreeCodeCamp"
